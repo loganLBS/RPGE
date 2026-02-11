@@ -23,7 +23,7 @@ public class QuestManager : MonoBehaviour
     void StartQuest()
     {
         questStarted = true;
-        questText.text = "Find the item";
+        questText.text = "Find Rebecca";
     }
 
     public void CompleteQuest()
